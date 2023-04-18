@@ -18,6 +18,7 @@ Balanced Accuracy Score: Balanced Accuracy Score: 0.5281505667759674
 
 * ### SMOTEENN
 Balanced Accuracy Score: 0.5281505667759674
+
 ![Alt text](images/imb_rep_smotenn.png)
 
 * ### Balanced Random Forest Classifier
