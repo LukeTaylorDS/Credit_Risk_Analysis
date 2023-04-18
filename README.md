@@ -29,3 +29,4 @@ Balanced Accuracy Score: 0.9316600714093861
 ![Alt text](images/imb_rep_eeac.png)
 
 ## Summary
+Based on the performance of the machine learning models, the EasyEnsembleClassifier outperforms the other models in terms of balanced accuracy score, precision, and recall. It shows the highest balanced accuracy score of 0.931, and the highest recall scores for both high-risk and low-risk classes, indicating better prediction performance. Therefore, the EasyEnsembleClassifier is recommended for predicting credit risk in this analysis. The BalancedRandomForestClassifier also performs well with a balanced accuracy score of 0.788 and relatively high recall scores, but it is outperformed by the EasyEnsembleClassifier. Other models, including RandomOverSampler, SMOTE, ClusterCentroids, and SMOTEENN, show lower performance in terms of balanced accuracy and recall scores, indicating lower prediction performance for credit risk.
